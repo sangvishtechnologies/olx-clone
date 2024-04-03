@@ -7,7 +7,7 @@ Starting a classified website is easier than ever before in today's digital worl
 
 # What is an OLX Clone Script?
 An **[OLX clone script](https://sangvish.com/olx-clone/)** is a ready-made software solution that duplicates the fundamental functionality of a popular classifieds website such as OLX. It gives consumers and businesses the tools they need to launch their own classified websites fast and efficiently. These scripts include crucial features such as:
-* **Ad posting: **
+* **Ad posting:**
 Users may quickly sell products in several categories, including descriptions, images, and pricing.
 * **Search functionality:** 
 Buyers may search listings by applying different criteria such as location, keyword, category, and more.
